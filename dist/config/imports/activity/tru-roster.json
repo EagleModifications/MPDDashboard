@@ -1,0 +1,1744 @@
+{
+  "members": [
+    {
+      "callsign": "TRU-01",
+      "badgeNumber": "1828",
+      "name": "Randy Marsh",
+      "rank": "Commander, TRU",
+      "timeInDept": "71 DAYS",
+      "timeInRank": "2 DAYS",
+      "discordId": "1063958824001753108",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-02",
+      "badgeNumber": "2360",
+      "name": "Micheal Rogers",
+      "rank": "Chief, TEU",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "742766177226457108",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-03",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Chief, SAR",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-04",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Deputy Chief, TEU",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-05",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Deputy Chief, SAR",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-06",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Colonel",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-07",
+      "badgeNumber": "2378",
+      "name": "Corey Gaming",
+      "rank": "Lieutenant Colonel",
+      "timeInDept": "7 DAYS",
+      "timeInRank": "7 DAYS",
+      "discordId": "581266592076136468",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-08",
+      "badgeNumber": "2308",
+      "name": "Jack Templar",
+      "rank": "Lieutenant Colonel",
+      "timeInDept": "165 DAYS",
+      "timeInRank": "82 DAYS",
+      "discordId": "641324302112915462",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-09",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Captain",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-10",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Captain",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-11",
+      "badgeNumber": "2273",
+      "name": "Jason Rice",
+      "rank": "Master Sergeant, TEU",
+      "timeInDept": "10 DAYS",
+      "timeInRank": "10 DAYS",
+      "discordId": "1232748351154552857",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-14",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Staff Sergeant, SAR",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-15",
+      "badgeNumber": "1058",
+      "name": "Kole Evans",
+      "rank": "Sergeant",
+      "timeInDept": "32 DAYS",
+      "timeInRank": "32 DAYS",
+      "discordId": "1352037059140915282",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-16",
+      "badgeNumber": "2359",
+      "name": "Jeffery Cox",
+      "rank": "Sergeant",
+      "timeInDept": "91 DAYS",
+      "timeInRank": "53 DAYS",
+      "discordId": "1225290735436435520",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-17",
+      "badgeNumber": "2036",
+      "name": "Brody S.",
+      "rank": "Sergeant",
+      "timeInDept": "64 DAYS",
+      "timeInRank": "53 DAYS",
+      "discordId": "837129022487789588",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-18",
+      "badgeNumber": "1733",
+      "name": "Guz Zachary",
+      "rank": "Sergeant",
+      "timeInDept": "25 DAYS",
+      "timeInRank": "25 DAYS",
+      "discordId": "224698521255673856",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-19",
+      "badgeNumber": "2644",
+      "name": "Daniel Jones",
+      "rank": "Sergeant",
+      "timeInDept": "23 DAYS",
+      "timeInRank": "18 DAYS",
+      "discordId": "273917248467369984",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-20",
+      "badgeNumber": "1851",
+      "name": "Jhon Watson",
+      "rank": "Sergeant",
+      "timeInDept": "100 DAYS",
+      "timeInRank": "18 DAYS",
+      "discordId": "751150083059482636",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-21",
+      "badgeNumber": "0714",
+      "name": "Damian Johnson",
+      "rank": "Sergeant",
+      "timeInDept": "8 DAYS",
+      "timeInRank": "7 DAYS",
+      "discordId": "798150955580784642",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-22",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Sergeant",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-23",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Sergeant",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-24",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Sergeant",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-25",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Sergeant",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-26",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Sergeant",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-27",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Sergeant",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-28",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Sergeant",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-29",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Sergeant",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-30",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Sergeant",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-31",
+      "badgeNumber": "2226",
+      "name": "Tony Green",
+      "rank": "Corporal",
+      "timeInDept": "55 DAYS",
+      "timeInRank": "55 DAYS",
+      "discordId": "1248152944860332129",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-32",
+      "badgeNumber": "2258",
+      "name": "Anthony Russo",
+      "rank": "Corporal",
+      "timeInDept": "116 DAYS",
+      "timeInRank": "23 DAYS",
+      "discordId": "1086293121471627327",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-33",
+      "badgeNumber": "1813",
+      "name": "Jack Jones",
+      "rank": "Corporal",
+      "timeInDept": "112 DAYS",
+      "timeInRank": "23 DAYS",
+      "discordId": "699935572659273740",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-34",
+      "badgeNumber": "2224",
+      "name": "Cole Walker",
+      "rank": "Corporal",
+      "timeInDept": "18 DAYS",
+      "timeInRank": "18 DAYS",
+      "discordId": "1348063461145448562",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-35",
+      "badgeNumber": "2092",
+      "name": "Omar Green",
+      "rank": "Corporal",
+      "timeInDept": "50 DAYS",
+      "timeInRank": "18 DAYS",
+      "discordId": "741195206740934706",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-36",
+      "badgeNumber": "1834",
+      "name": "John Wick",
+      "rank": "Corporal",
+      "timeInDept": "118 DAYS",
+      "timeInRank": "17 DAYS",
+      "discordId": "756616013558054933",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-37",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Corporal",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-38",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Corporal",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-39",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Corporal",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-40",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Corporal",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-41",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Corporal",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-42",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Corporal",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-43",
+      "badgeNumber": "1633",
+      "name": "Adam Ruzek",
+      "rank": "Lance Corporal",
+      "timeInDept": "31 DAYS",
+      "timeInRank": "31 DAYS",
+      "discordId": "807773194819600384",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-44",
+      "badgeNumber": "0543",
+      "name": "Montoya A.",
+      "rank": "Lance Corporal",
+      "timeInDept": "100 DAYS",
+      "timeInRank": "65 DAYS",
+      "discordId": "753017024778731521",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-45",
+      "badgeNumber": "2497",
+      "name": "S. Frog",
+      "rank": "Lance Corporal",
+      "timeInDept": "101 DAYS",
+      "timeInRank": "82 DAYS",
+      "discordId": "1395090208424198245",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-46",
+      "badgeNumber": "2119",
+      "name": "Lofty Taylor",
+      "rank": "Lance Corporal",
+      "timeInDept": "51 DAYS",
+      "timeInRank": "24 DAYS",
+      "discordId": "847177562156171344",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-47",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lance Corporal",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-48",
+      "badgeNumber": "2618",
+      "name": "Rico Fox",
+      "rank": "Lance Corporal",
+      "timeInDept": "28 DAYS",
+      "timeInRank": "9 DAYS",
+      "discordId": "501117261994786816",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-49",
+      "badgeNumber": "2199",
+      "name": "Matthew James",
+      "rank": "Lance Corporal",
+      "timeInDept": "63 DAYS",
+      "timeInRank": "9 DAYS",
+      "discordId": "1263585305928138844",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-50",
+      "badgeNumber": "1501",
+      "name": "Kaden Marquez",
+      "rank": "Lance Corporal",
+      "timeInDept": "26 DAYS",
+      "timeInRank": "18 DAYS",
+      "discordId": "1170171397566369913",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-51",
+      "badgeNumber": "2520",
+      "name": "Ryan Smith",
+      "rank": "Lance Corporal",
+      "timeInDept": "9 DAYS",
+      "timeInRank": "9 DAYS",
+      "discordId": "1336058714771161231",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-52",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lance Corporal",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-53",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lance Corporal",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-54",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lance Corporal",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-55",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lance Corporal",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-56",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lance Corporal",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-57",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lance Corporal",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-58",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lance Corporal",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-59",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lance Corporal",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-60",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lance Corporal",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-61",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lance Corporal",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-80",
+      "badgeNumber": "2629",
+      "name": "Ethan Stone",
+      "rank": "Senior Officer",
+      "timeInDept": "27 DAYS",
+      "timeInRank": "27 DAYS",
+      "discordId": "1495876571133771787",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-81",
+      "badgeNumber": "2688",
+      "name": "Darius Kade",
+      "rank": "Senior Officer",
+      "timeInDept": "11 DAYS",
+      "timeInRank": "11 DAYS",
+      "discordId": "1251639383803560019",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-82",
+      "badgeNumber": "0007",
+      "name": "J. Green",
+      "rank": "Senior Officer",
+      "timeInDept": "37 DAYS",
+      "timeInRank": "37 DAYS",
+      "discordId": "546350524027633705",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-83",
+      "badgeNumber": "1895",
+      "name": "Jacob Jordan",
+      "rank": "Senior Officer",
+      "timeInDept": "61 DAYS",
+      "timeInRank": "61 DAYS",
+      "discordId": "706692181704048690",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-84",
+      "badgeNumber": "2417",
+      "name": "James Grant",
+      "rank": "Senior Officer",
+      "timeInDept": "89 DAYS",
+      "timeInRank": "82 DAYS",
+      "discordId": "1076286952355139688",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-85",
+      "badgeNumber": "2409",
+      "name": "Brayden Baker",
+      "rank": "Senior Officer",
+      "timeInDept": "68 DAYS",
+      "timeInRank": "53 DAYS",
+      "discordId": "1448122826723819621",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-86",
+      "badgeNumber": "1068",
+      "name": "Pork C.",
+      "rank": "Senior Officer",
+      "timeInDept": "54 DAYS",
+      "timeInRank": "54 DAYS",
+      "discordId": "1131246878713991248",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-87",
+      "badgeNumber": "2115",
+      "name": "Ace Smith",
+      "rank": "Senior Officer",
+      "timeInDept": "53 DAYS",
+      "timeInRank": "53 DAYS",
+      "discordId": "778356585465643078",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-88",
+      "badgeNumber": "1826",
+      "name": "Donald drippy",
+      "rank": "Senior Officer",
+      "timeInDept": "20 DAYS",
+      "timeInRank": "9 DAYS",
+      "discordId": "1395427049870463139",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-89",
+      "badgeNumber": "2552",
+      "name": "Chris Lock",
+      "rank": "Senior Officer",
+      "timeInDept": "49 DAYS",
+      "timeInRank": "49 DAYS",
+      "discordId": "816065742544961576",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-90",
+      "badgeNumber": "2655",
+      "name": "Kevin Davis",
+      "rank": "Senior Officer",
+      "timeInDept": "1 DAYS",
+      "timeInRank": "0 DAYS",
+      "discordId": "1018470623900614726",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-91",
+      "badgeNumber": "1935",
+      "name": "Blooper Bork",
+      "rank": "Senior Officer",
+      "timeInDept": "16 DAYS",
+      "timeInRank": "16 DAYS",
+      "discordId": "968262009600770079",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-92",
+      "badgeNumber": "0464",
+      "name": "B. Tom",
+      "rank": "Senior Officer",
+      "timeInDept": "16 DAYS",
+      "timeInRank": "16 DAYS",
+      "discordId": "696153254081593401",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-93",
+      "badgeNumber": "1837",
+      "name": "Dean Cooper",
+      "rank": "Senior Officer",
+      "timeInDept": "19 DAYS",
+      "timeInRank": "3 DAYS",
+      "discordId": "951247159402049596",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-94",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-95",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-96",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-97",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-98",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-99",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-100",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-101",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-102",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-103",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-104",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-105",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-106",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-107",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-108",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-109",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-110",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-111",
+      "badgeNumber": "2657",
+      "name": "Tito Himo",
+      "rank": "Officer",
+      "timeInDept": "20 DAYS",
+      "timeInRank": "20 DAYS",
+      "discordId": "686254996483997735",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-112",
+      "badgeNumber": "0129",
+      "name": "Kelly K.",
+      "rank": "Officer",
+      "timeInDept": "124 DAYS",
+      "timeInRank": "124 DAYS",
+      "discordId": "1052664353247211640",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-113",
+      "badgeNumber": "0119",
+      "name": "T. Daniel",
+      "rank": "Officer",
+      "timeInDept": "134 DAYS",
+      "timeInRank": "134 DAYS",
+      "discordId": "392117429242691595",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-114",
+      "badgeNumber": "2170",
+      "name": "Aj Santos",
+      "rank": "Officer",
+      "timeInDept": "120 DAYS",
+      "timeInRank": "85 DAYS",
+      "discordId": "1335394305854013451",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-115",
+      "badgeNumber": "2051",
+      "name": "Connor Brown",
+      "rank": "Officer",
+      "timeInDept": "22 DAYS",
+      "timeInRank": "22 DAYS",
+      "discordId": "818544978153308212",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-116",
+      "badgeNumber": "1273",
+      "name": "Jackson Evans",
+      "rank": "Officer",
+      "timeInDept": "62 DAYS",
+      "timeInRank": "62 DAYS",
+      "discordId": "745005229132611646",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-117",
+      "badgeNumber": "2737",
+      "name": "Tyler C.",
+      "rank": "Officer",
+      "timeInDept": "0 DAYS",
+      "timeInRank": "0 DAYS",
+      "discordId": "1072168485184094339",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-118",
+      "badgeNumber": "2063",
+      "name": "Riley Benfield",
+      "rank": "Officer",
+      "timeInDept": "147 DAYS",
+      "timeInRank": "32 DAYS",
+      "discordId": "987456414748381194",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-119",
+      "badgeNumber": "2362",
+      "name": "Roger Dangers",
+      "rank": "Officer",
+      "timeInDept": "67 DAYS",
+      "timeInRank": "51 DAYS",
+      "discordId": "669579112020574242",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-120",
+      "badgeNumber": "0097",
+      "name": "W. Danny",
+      "rank": "Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "1090293949224202252",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-121",
+      "badgeNumber": "2440",
+      "name": "Jay Boyd",
+      "rank": "Officer",
+      "timeInDept": "57 DAYS",
+      "timeInRank": "56 DAYS",
+      "discordId": "1189635924166979686",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-122",
+      "badgeNumber": "2518",
+      "name": "Kayden Garland",
+      "rank": "Officer",
+      "timeInDept": "54 DAYS",
+      "timeInRank": "53 DAYS",
+      "discordId": "376995942307463169",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-123",
+      "badgeNumber": "1996",
+      "name": "Sam Cadell",
+      "rank": "Officer",
+      "timeInDept": "147 DAYS",
+      "timeInRank": "85 DAYS",
+      "discordId": "348273288595636224",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-124",
+      "badgeNumber": "0578",
+      "name": "Robin C.",
+      "rank": "Officer",
+      "timeInDept": "64 DAYS",
+      "timeInRank": "64 DAYS",
+      "discordId": "558205144156733460",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-125",
+      "badgeNumber": "2533",
+      "name": "Reese Holloway",
+      "rank": "Officer",
+      "timeInDept": "41 DAYS",
+      "timeInRank": "41 DAYS",
+      "discordId": "1387973419991171162",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-126",
+      "badgeNumber": "1682",
+      "name": "Derek Hunter",
+      "rank": "Officer",
+      "timeInDept": "51 DAYS",
+      "timeInRank": "32 DAYS",
+      "discordId": "1219822087347245157",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-127",
+      "badgeNumber": "2044",
+      "name": "Cody Sanders",
+      "rank": "Officer",
+      "timeInDept": "147 DAYS",
+      "timeInRank": "90 DAYS",
+      "discordId": "1370790962166497310",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-128",
+      "badgeNumber": "2332",
+      "name": "King Chase",
+      "rank": "Officer",
+      "timeInDept": "78 DAYS",
+      "timeInRank": "64 DAYS",
+      "discordId": "1121581568457179227",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-129",
+      "badgeNumber": "2414",
+      "name": "John Wick",
+      "rank": "Officer",
+      "timeInDept": "63 DAYS",
+      "timeInRank": "63 DAYS",
+      "discordId": "707241765220122714",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-130",
+      "badgeNumber": "1573",
+      "name": "Joe Bush",
+      "rank": "Officer",
+      "timeInDept": "50 DAYS",
+      "timeInRank": "50 DAYS",
+      "discordId": "530062101121859615",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-131",
+      "badgeNumber": "2695",
+      "name": "Shade Wood",
+      "rank": "Officer",
+      "timeInDept": "9 DAYS",
+      "timeInRank": "9 DAYS",
+      "discordId": "1347702579651674183",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-132",
+      "badgeNumber": "2111",
+      "name": "Taylin Caz",
+      "rank": "Officer",
+      "timeInDept": "33 DAYS",
+      "timeInRank": "29 DAYS",
+      "discordId": "1174391756213715069",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-133",
+      "badgeNumber": "2326",
+      "name": "John Hill",
+      "rank": "Officer",
+      "timeInDept": "47 DAYS",
+      "timeInRank": "47 DAYS",
+      "discordId": "1086426673618112542",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-134",
+      "badgeNumber": "2563",
+      "name": "Jack D.",
+      "rank": "Officer",
+      "timeInDept": "47 DAYS",
+      "timeInRank": "47 DAYS",
+      "discordId": "1325182087770407003",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-135",
+      "badgeNumber": "2461",
+      "name": "Dave Jeff",
+      "rank": "Officer",
+      "timeInDept": "41 DAYS",
+      "timeInRank": "41 DAYS",
+      "discordId": "1097589377145786520",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-136",
+      "badgeNumber": "2696",
+      "name": "Sam Wood",
+      "rank": "Officer",
+      "timeInDept": "9 DAYS",
+      "timeInRank": "9 DAYS",
+      "discordId": "1163639070019289119",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-137",
+      "badgeNumber": "2104",
+      "name": "John Hayes",
+      "rank": "Officer",
+      "timeInDept": "16 DAYS",
+      "timeInRank": "16 DAYS",
+      "discordId": "1358121151867387934",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-138",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-139",
+      "badgeNumber": "2155",
+      "name": "M. Olise",
+      "rank": "Officer",
+      "timeInDept": "6 DAYS",
+      "timeInRank": "6 DAYS",
+      "discordId": "851908082325520444",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-140",
+      "badgeNumber": "2625",
+      "name": "Mason Vance",
+      "rank": "Officer",
+      "timeInDept": "2 DAYS",
+      "timeInRank": "2 DAYS",
+      "discordId": "911678417009770626",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-141",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-142",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-143",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-144",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-145",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-146",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-147",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-148",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-149",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-150",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-151",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-152",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-153",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-154",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-155",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-156",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Officer",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C1",
+      "badgeNumber": "2623",
+      "name": "Stephon Mangold",
+      "rank": "Trainee",
+      "timeInDept": "18 DAYS",
+      "timeInRank": "18 DAYS",
+      "discordId": "923335622154919946",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C2",
+      "badgeNumber": "2670",
+      "name": "Jonny L.",
+      "rank": "Trainee",
+      "timeInDept": "17 DAYS",
+      "timeInRank": "17 DAYS",
+      "discordId": "650030671661760555",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C3",
+      "badgeNumber": "0515",
+      "name": "Jonathan Zeus",
+      "rank": "Trainee",
+      "timeInDept": "15 DAYS",
+      "timeInRank": "15 DAYS",
+      "discordId": "1205813751404560404",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C4",
+      "badgeNumber": "1059",
+      "name": "Kallia Aspen",
+      "rank": "Trainee",
+      "timeInDept": "15 DAYS",
+      "timeInRank": "15 DAYS",
+      "discordId": "572672069926387722",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C5",
+      "badgeNumber": "2717",
+      "name": "Jake Blackstone",
+      "rank": "Trainee",
+      "timeInDept": "5 DAYS",
+      "timeInRank": "5 DAYS",
+      "discordId": "1360999991128358984",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C6",
+      "badgeNumber": "2034",
+      "name": "Alonso Romeo",
+      "rank": "Trainee",
+      "timeInDept": "4 DAYS",
+      "timeInRank": "4 DAYS",
+      "discordId": "1016081425042251897",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C7",
+      "badgeNumber": "2694",
+      "name": "N. Price",
+      "rank": "Trainee",
+      "timeInDept": "8 DAYS",
+      "timeInRank": "8 DAYS",
+      "discordId": "694939141686689842",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C8",
+      "badgeNumber": "2683",
+      "name": "Tim Bradford",
+      "rank": "Trainee",
+      "timeInDept": "1 DAYS",
+      "timeInRank": "1 DAYS",
+      "discordId": "1165625286390452275",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C9",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C10",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C11",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C12",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C13",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C14",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C15",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C16",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C17",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C18",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C19",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C20",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C21",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C22",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C23",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C24",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C25",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C26",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C27",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C28",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C29",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C30",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C31",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C32",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C33",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C34",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C35",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C36",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C37",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "TRU-C38",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    }
+  ]
+}

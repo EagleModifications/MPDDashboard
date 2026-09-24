@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "administrator": {
+      "name": "Administrator",
+      "description": "Full access to the MPD Dashboard.",
+      "permissions": ["*"]
+    },
+    "management": {
+      "name": "Management",
+      "description": "Management access.",
+      "permissions": [
+        "view",
+        "audit",
+        "import",
+        "requirements"
+      ]
+    },
+    "auditor": {
+      "name": "Auditor",
+      "description": "View and audit access.",
+      "permissions": [
+        "view",
+        "audit"
+      ]
+    },
+    "viewer": {
+      "name": "Viewer",
+      "description": "Read-only dashboard access.",
+      "permissions": [
+        "view"
+      ]
+    }
+  }
+}

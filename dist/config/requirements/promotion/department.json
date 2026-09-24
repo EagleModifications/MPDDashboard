@@ -1,0 +1,11 @@
+{
+  "department": "Department",
+  "requirements": {
+    "officer-1": 10,
+    "officer-2": 10,
+    "officer-3": 15,
+    "lance-corporal": 15,
+    "corporal": 20,
+    "sergeant": 25
+  }
+}

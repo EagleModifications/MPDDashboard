@@ -1,0 +1,77 @@
+{
+  "department": "TEU",
+  "ranks": [
+    {
+      "id": "officer-1",
+      "name": "Officer 1"
+    },
+    {
+      "id": "officer-2",
+      "name": "Officer 2"
+    },
+    {
+      "id": "officer-3",
+      "name": "Officer 3"
+    },
+    {
+      "id": "lance-corporal",
+      "name": "Lance Corporal"
+    },
+    {
+      "id": "corporal",
+      "name": "Corporal"
+    },
+    {
+      "id": "sergeant",
+      "name": "Sergeant"
+    },
+    {
+      "id": "staff-sergeant",
+      "name": "Staff Sergeant"
+    },
+    {
+      "id": "master-sergeant",
+      "name": "Master Sergeant"
+    },
+    {
+      "id": "second-lieutenant",
+      "name": "2nd Lieutenant"
+    },
+    {
+      "id": "first-lieutenant",
+      "name": "1st Lieutenant"
+    },
+    {
+      "id": "captain",
+      "name": "Captain"
+    },
+    {
+      "id": "major",
+      "name": "Major"
+    },
+    {
+      "id": "lieutenant-colonel",
+      "name": "Lieutenant Colonel"
+    },
+    {
+      "id": "colonel",
+      "name": "Colonel"
+    },
+    {
+      "id": "chief-of-staff",
+      "name": "Chief Of Staff"
+    },
+    {
+      "id": "assistant-chief",
+      "name": "Assistant Chief of Police"
+    },
+    {
+      "id": "deputy-chief",
+      "name": "Deputy Chief of Police"
+    },
+    {
+      "id": "chief",
+      "name": "Chief of Police"
+    }
+  ]
+}
