@@ -1,0 +1,1374 @@
+{
+  "members": [
+    {
+      "callsign": "SWAT-00",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Commander",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-01",
+      "badgeNumber": "2226",
+      "name": "Tony Green",
+      "rank": "Commander",
+      "timeInDept": "55 DAYS",
+      "timeInRank": "55 DAYS",
+      "discordId": "1248152944860332129",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-02",
+      "badgeNumber": "1782",
+      "name": "Kieran Beesley",
+      "rank": "Deputy Commander",
+      "timeInDept": "212 DAYS",
+      "timeInRank": "113 DAYS",
+      "discordId": "1314550564389912609",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-03",
+      "badgeNumber": "2378",
+      "name": "Corey Gaming",
+      "rank": "Assistant Commander",
+      "timeInDept": "97 DAYS",
+      "timeInRank": "62 DAYS",
+      "discordId": "581266592076136468",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-04",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Executive Commander",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-05",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Chief Of Staff",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-06",
+      "badgeNumber": "2337",
+      "name": "Etan Wayne",
+      "rank": "Command",
+      "timeInDept": "65 DAYS",
+      "timeInRank": "60 DAYS",
+      "discordId": "585760249516916747",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-07",
+      "badgeNumber": "0543",
+      "name": "Montoya A.",
+      "rank": "Command",
+      "timeInDept": "96 DAYS",
+      "timeInRank": "28 DAYS",
+      "discordId": "753017024778731521",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-08",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Command",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-09",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lieutenant",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-10",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lieutenant",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-11",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lieutenant",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-12",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Strike Lead",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-13",
+      "badgeNumber": "0007",
+      "name": "J. Green",
+      "rank": "Strike Lead",
+      "timeInDept": "37 DAYS",
+      "timeInRank": "20 DAYS",
+      "discordId": "546350524027633705",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-14",
+      "badgeNumber": "2644",
+      "name": "Daniel Jones",
+      "rank": "Strike Lead",
+      "timeInDept": "23 DAYS",
+      "timeInRank": "18 DAYS",
+      "discordId": "273917248467369984",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-15",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Strike Lead",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-16",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Strike Lead",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-17",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Strike Lead",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-18",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Strike Lead",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-19",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Strike Lead",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-20",
+      "badgeNumber": "1468",
+      "name": "Ali A.",
+      "rank": "Supervisory Operators",
+      "timeInDept": "9 DAYS",
+      "timeInRank": "9 DAYS",
+      "discordId": "1122729258054328352",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-21",
+      "badgeNumber": "1633",
+      "name": "Adam Ruzek",
+      "rank": "Supervisory Operators",
+      "timeInDept": "31 DAYS",
+      "timeInRank": "31 DAYS",
+      "discordId": "807773194819600384",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-22",
+      "badgeNumber": "2164",
+      "name": "Michael Romano",
+      "rank": "Supervisory Operators",
+      "timeInDept": "5 DAYS",
+      "timeInRank": "5 DAYS",
+      "discordId": "1442352865447514142",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-23",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Supervisory Operators",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-24",
+      "badgeNumber": "1733",
+      "name": "Guz Zachary",
+      "rank": "Supervisory Operators",
+      "timeInDept": "25 DAYS",
+      "timeInRank": "25 DAYS",
+      "discordId": "224698521255673856",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-25",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Supervisory Operators",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-26",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Supervisory Operators",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-27",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Supervisory Operators",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-28",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Supervisory Operators",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-29",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Supervisory Operators",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-32",
+      "badgeNumber": "2308",
+      "name": "Jack Templar",
+      "rank": "Master Operator",
+      "timeInDept": "120 DAYS",
+      "timeInRank": "101 DAYS",
+      "discordId": "641324302112915462",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-33",
+      "badgeNumber": "2520",
+      "name": "Ryan Smith",
+      "rank": "Master Operator",
+      "timeInDept": "25 DAYS",
+      "timeInRank": "10 DAYS",
+      "discordId": "1336058714771161231",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-34",
+      "badgeNumber": "2273",
+      "name": "Jason Rice",
+      "rank": "Master Operator",
+      "timeInDept": "26 DAYS",
+      "timeInRank": "10 DAYS",
+      "discordId": "1232748351154552857",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-35",
+      "badgeNumber": "2503",
+      "name": "K. Ramos",
+      "rank": "Master Operator",
+      "timeInDept": "30 DAYS",
+      "timeInRank": "20 DAYS",
+      "discordId": "1157865733645148241",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-36",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Master Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-37",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Master Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-38",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Master Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-39",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Master Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-40",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Master Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-41",
+      "badgeNumber": "2698",
+      "name": "Kadeem farrugia",
+      "rank": "Sr. Operator",
+      "timeInDept": "9 DAYS",
+      "timeInRank": "9 DAYS",
+      "discordId": "1312102011839316100",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-42",
+      "badgeNumber": "2688",
+      "name": "Darius Kade",
+      "rank": "Sr. Operator",
+      "timeInDept": "10 DAYS",
+      "timeInRank": "10 DAYS",
+      "discordId": "1251639383803560019",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-43",
+      "badgeNumber": "2409",
+      "name": "Brayden Baker",
+      "rank": "Sr. Operator",
+      "timeInDept": "64 DAYS",
+      "timeInRank": "64 DAYS",
+      "discordId": "1448122826723819621",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-44",
+      "badgeNumber": "0638",
+      "name": "David Sanchez",
+      "rank": "Sr. Operator",
+      "timeInDept": "22 DAYS",
+      "timeInRank": "10 DAYS",
+      "discordId": "117992567316021250",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-45",
+      "badgeNumber": "2258",
+      "name": "Anthony Russo",
+      "rank": "Sr. Operator",
+      "timeInDept": "113 DAYS",
+      "timeInRank": "18 DAYS",
+      "discordId": "1086293121471627327",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-46",
+      "badgeNumber": "2541",
+      "name": "Caleb Sanchez",
+      "rank": "Sr. Operator",
+      "timeInDept": "52 DAYS",
+      "timeInRank": "9 DAYS",
+      "discordId": "1061411577129091123",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-47",
+      "badgeNumber": "2119",
+      "name": "Lofty Taylor",
+      "rank": "Sr. Operator",
+      "timeInDept": "51 DAYS",
+      "timeInRank": "30 DAYS",
+      "discordId": "847177562156171344",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-48",
+      "badgeNumber": "2507",
+      "name": "John Blue",
+      "rank": "Sr. Operator",
+      "timeInDept": "53 DAYS",
+      "timeInRank": "45 DAYS",
+      "discordId": "679029509324013647",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-49",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Sr. Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-50",
+      "badgeNumber": "2199",
+      "name": "Matthew James",
+      "rank": "Sr. Operator",
+      "timeInDept": "12 DAYS",
+      "timeInRank": "2 DAYS",
+      "discordId": "1263585305928138844",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-51",
+      "badgeNumber": "2670",
+      "name": "Jonny L.",
+      "rank": "Sr. Operator",
+      "timeInDept": "17 DAYS",
+      "timeInRank": "17 DAYS",
+      "discordId": "650030671661760555",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-52",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Sr. Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-53",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Sr. Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-54",
+      "badgeNumber": "2360",
+      "name": "Micheal Rogers",
+      "rank": "Operator",
+      "timeInDept": "82 DAYS",
+      "timeInRank": "82 DAYS",
+      "discordId": "742766177226457108",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-55",
+      "badgeNumber": "2737",
+      "name": "Tyler C.",
+      "rank": "Operator",
+      "timeInDept": "0 DAYS",
+      "timeInRank": "0 DAYS",
+      "discordId": "1072168485184094339",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-56",
+      "badgeNumber": "2655",
+      "name": "Kevin Davis",
+      "rank": "Operator",
+      "timeInDept": "11 DAYS",
+      "timeInRank": "10 DAYS",
+      "discordId": "1018470623900614726",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-57",
+      "badgeNumber": "0714",
+      "name": "Damian Johnson",
+      "rank": "Operator",
+      "timeInDept": "8 DAYS",
+      "timeInRank": "8 DAYS",
+      "discordId": "798150955580784642",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-58",
+      "badgeNumber": "2036",
+      "name": "Brody S.",
+      "rank": "Operator",
+      "timeInDept": "63 DAYS",
+      "timeInRank": "63 DAYS",
+      "discordId": "837129022487789588",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-59",
+      "badgeNumber": "2696",
+      "name": "Sam Wood",
+      "rank": "Operator",
+      "timeInDept": "8 DAYS",
+      "timeInRank": "8 DAYS",
+      "discordId": "1163639070019289119",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-60",
+      "badgeNumber": "2155",
+      "name": "M. Olise",
+      "rank": "Operator",
+      "timeInDept": "6 DAYS",
+      "timeInRank": "6 DAYS",
+      "discordId": "851908082325520444",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-61",
+      "badgeNumber": "2717",
+      "name": "Jake Blackstone",
+      "rank": "Operator",
+      "timeInDept": "6 DAYS",
+      "timeInRank": "6 DAYS",
+      "discordId": "1360999991128358984",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-62",
+      "badgeNumber": "2224",
+      "name": "Cole Walker",
+      "rank": "Operator",
+      "timeInDept": "18 DAYS",
+      "timeInRank": "18 DAYS",
+      "discordId": "1348063461145448562",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-63",
+      "badgeNumber": "2695",
+      "name": "Shade Wood",
+      "rank": "Operator",
+      "timeInDept": "9 DAYS",
+      "timeInRank": "9 DAYS",
+      "discordId": "1347702579651674183",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-64",
+      "badgeNumber": "0068",
+      "name": "Alan Wilson",
+      "rank": "Operator",
+      "timeInDept": "13 DAYS",
+      "timeInRank": "13 DAYS",
+      "discordId": "882109211402731520",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-65",
+      "badgeNumber": "1828",
+      "name": "Randy Marsh",
+      "rank": "Operator",
+      "timeInDept": "70 DAYS",
+      "timeInRank": "70 DAYS",
+      "discordId": "1063958824001753108",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-66",
+      "badgeNumber": "2618",
+      "name": "Rico Fox",
+      "rank": "Operator",
+      "timeInDept": "7 DAYS",
+      "timeInRank": "5 DAYS",
+      "discordId": "501117261994786816",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-67",
+      "badgeNumber": "2736",
+      "name": "Jacob Johnson",
+      "rank": "Operator",
+      "timeInDept": "0 DAYS",
+      "timeInRank": "0 DAYS",
+      "discordId": "1087459636698955777",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-68",
+      "badgeNumber": "1649",
+      "name": "Reed Thompson",
+      "rank": "Operator",
+      "timeInDept": "294 DAYS",
+      "timeInRank": "9 DAYS",
+      "discordId": "778626440190099517",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-69",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-70",
+      "badgeNumber": "1543",
+      "name": "Jackson Smith",
+      "rank": "Operator",
+      "timeInDept": "52 DAYS",
+      "timeInRank": "52 DAYS",
+      "discordId": "668245044213448724",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-71",
+      "badgeNumber": "2092",
+      "name": "Omar Green",
+      "rank": "Operator",
+      "timeInDept": "50 DAYS",
+      "timeInRank": "50 DAYS",
+      "discordId": "741195206740934706",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-72",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-73",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-74",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-75",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-76",
+      "badgeNumber": "1834",
+      "name": "John Wick",
+      "rank": "Operator",
+      "timeInDept": "24 DAYS",
+      "timeInRank": "24 DAYS",
+      "discordId": "756616013558054933",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-77",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-78",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-79",
+      "badgeNumber": "2051",
+      "name": "Connor Brown",
+      "rank": "Operator",
+      "timeInDept": "22 DAYS",
+      "timeInRank": "22 DAYS",
+      "discordId": "818544978153308212",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-80",
+      "badgeNumber": "2104",
+      "name": "John Hayes",
+      "rank": "Operator",
+      "timeInDept": "16 DAYS",
+      "timeInRank": "16 DAYS",
+      "discordId": "1358121151867387934",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-81",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-82",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-83",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-84",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-85",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-86",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-87",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-88",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-89",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-90",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-91",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-92",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-93",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-94",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-95",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-96",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-97",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-98",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-99",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-100",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-101",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-102",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-103",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-601",
+      "badgeNumber": "2111",
+      "name": "Taylin Caz",
+      "rank": "Probationary Operator",
+      "timeInDept": "33 DAYS",
+      "timeInRank": "31 DAYS",
+      "discordId": "1174391756213715069",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-602",
+      "badgeNumber": "2018",
+      "name": "Woody White",
+      "rank": "Probationary Operator",
+      "timeInDept": "32 DAYS",
+      "timeInRank": "31 DAYS",
+      "discordId": "796004139942412318",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-603",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-604",
+      "badgeNumber": "0529",
+      "name": "M. Reyes",
+      "rank": "Probationary Operator",
+      "timeInDept": "15 DAYS",
+      "timeInRank": "15 DAYS",
+      "discordId": "349990552357306371",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-605",
+      "badgeNumber": "2623",
+      "name": "Stephon Mangold",
+      "rank": "Probationary Operator",
+      "timeInDept": "11 DAYS",
+      "timeInRank": "11 DAYS",
+      "discordId": "923335622154919946",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-606",
+      "badgeNumber": "2694",
+      "name": "N. Price",
+      "rank": "Probationary Operator",
+      "timeInDept": "8 DAYS",
+      "timeInRank": "8 DAYS",
+      "discordId": "694939141686689842",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-607",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-608",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-609",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-610",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-611",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-612",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-613",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-614",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-615",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-616",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-617",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-618",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-619",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-620",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-621",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-622",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-623",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-624",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-625",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-626",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-627",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-628",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-629",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-630",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-631",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-632",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-633",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-634",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "SWAT-635",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Probationary Operator",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    }
+  ]
+}

@@ -1,0 +1,1824 @@
+{
+  "members": [
+    {
+      "callsign": "MCD-00",
+      "badgeNumber": "1168",
+      "name": "Liam Nauts",
+      "rank": "Overseer",
+      "timeInDept": "614 DAYS",
+      "timeInRank": "10 DAYS",
+      "discordId": "1321874284297195593",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-01",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Chief of Detectives",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-02",
+      "badgeNumber": "2337",
+      "name": "Etan Wayne",
+      "rank": "Deputy Chief of Detectives",
+      "timeInDept": "154 DAYS",
+      "timeInRank": "10 DAYS",
+      "discordId": "585760249516916747",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-03",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Assistant Chief of Detectives",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-04",
+      "badgeNumber": "0003",
+      "name": "Jack Daniels",
+      "rank": "Division Commander",
+      "timeInDept": "977 DAYS",
+      "timeInRank": "41 DAYS",
+      "discordId": "1527012670795026515",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-05",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Deputy Commander",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-06",
+      "badgeNumber": "1935",
+      "name": "Blooper Bork",
+      "rank": "Detective Lieutenant",
+      "timeInDept": "48 DAYS",
+      "timeInRank": "16 DAYS",
+      "discordId": "968262009600770079",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-07",
+      "badgeNumber": "1782",
+      "name": "Kieran Beesley",
+      "rank": "Detective Lieutenant",
+      "timeInDept": "212 DAYS",
+      "timeInRank": "11 DAYS",
+      "discordId": "1314550564389912609",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-08",
+      "badgeNumber": "2273",
+      "name": "Jason Rice",
+      "rank": "Detective Lieutenant",
+      "timeInDept": "81 DAYS",
+      "timeInRank": "10 DAYS",
+      "discordId": "1232748351154552857",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-09",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective In Charge",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-09",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective In Charge",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-10",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective In Charge",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-11",
+      "badgeNumber": "1649",
+      "name": "Reed Thompson",
+      "rank": "Lead Detective",
+      "timeInDept": "166 DAYS",
+      "timeInRank": "149 DAYS",
+      "discordId": "778626440190099517",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-12",
+      "badgeNumber": "2378",
+      "name": "Corey Gaming",
+      "rank": "Lead Detective",
+      "timeInDept": "97 DAYS",
+      "timeInRank": "25 DAYS",
+      "discordId": "581266592076136468",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-13",
+      "badgeNumber": "2644",
+      "name": "Daniel Jones",
+      "rank": "Lead Detective",
+      "timeInDept": "23 DAYS",
+      "timeInRank": "18 DAYS",
+      "discordId": "273917248467369984",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-14",
+      "badgeNumber": "2409",
+      "name": "Brayden Baker",
+      "rank": "Lead Detective",
+      "timeInDept": "113 DAYS",
+      "timeInRank": "59 DAYS",
+      "discordId": "1448122826723819621",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-15",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lead Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-16",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lead Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-17",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lead Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-18",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lead Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-19",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lead Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-20",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lead Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-21",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lead Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-22",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lead Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-23",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lead Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-24",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lead Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-25",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lead Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-26",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lead Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-27",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lead Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-28",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lead Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-29",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lead Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-30",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lead Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-31",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lead Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-32",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lead Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-33",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lead Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-34",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lead Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-35",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Lead Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-36",
+      "badgeNumber": "0119",
+      "name": "T. Daniel",
+      "rank": "Senior Detective",
+      "timeInDept": "134 DAYS",
+      "timeInRank": "134 DAYS",
+      "discordId": "392117429242691595",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-37",
+      "badgeNumber": "2092",
+      "name": "Omar Green",
+      "rank": "Senior Detective",
+      "timeInDept": "130 DAYS",
+      "timeInRank": "11 DAYS",
+      "discordId": "741195206740934706",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-38",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-39",
+      "badgeNumber": "2057",
+      "name": "Mandito E.",
+      "rank": "Senior Detective",
+      "timeInDept": "62 DAYS",
+      "timeInRank": "4 DAYS",
+      "discordId": "932461143946051624",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-40",
+      "badgeNumber": "2164",
+      "name": "Michael Romano",
+      "rank": "Senior Detective",
+      "timeInDept": "5 DAYS",
+      "timeInRank": "5 DAYS",
+      "discordId": "1442352865447514142",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-41",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-42",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-43",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-44",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-45",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-46",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-47",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-48",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-49",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-50",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-51",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-52",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-53",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-54",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-55",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-56",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Senior Detective",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-57",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-58",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-59",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-60",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-61",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-62",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-63",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-64",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-65",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-66",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-67",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-68",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-69",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-70",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-71",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-72",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-73",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-74",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-75",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-76",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-77",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-78",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-79",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-80",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-81",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-82",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-83",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-84",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-85",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-86",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective III",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-87",
+      "badgeNumber": "2623",
+      "name": "Stephon Mangold",
+      "rank": "Detective II",
+      "timeInDept": "30 DAYS",
+      "timeInRank": "4 DAYS",
+      "discordId": "923335622154919946",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-88",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-89",
+      "badgeNumber": "2034",
+      "name": "Alonso Romeo",
+      "rank": "Detective II",
+      "timeInDept": "65 DAYS",
+      "timeInRank": "3 DAYS",
+      "discordId": "1016081425042251897",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-90",
+      "badgeNumber": "2022",
+      "name": "Jayden Howard",
+      "rank": "Detective II",
+      "timeInDept": "68 DAYS",
+      "timeInRank": "11 DAYS",
+      "discordId": "617885930996629505",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-91",
+      "badgeNumber": "2520",
+      "name": "Ryan Smith",
+      "rank": "Detective II",
+      "timeInDept": "56 DAYS",
+      "timeInRank": "4 DAYS",
+      "discordId": "1336058714771161231",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-92",
+      "badgeNumber": "0714",
+      "name": "Damian Johnson",
+      "rank": "Detective II",
+      "timeInDept": "8 DAYS",
+      "timeInRank": "8 DAYS",
+      "discordId": "798150955580784642",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-93",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-94",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-95",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-96",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-97",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-98",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-99",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-100",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-101",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-102",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-103",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-104",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-105",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-106",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-107",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-108",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-109",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-110",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-111",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-112",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-113",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-114",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-115",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-116",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-117",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-118",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-119",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-120",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-121",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-122",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-123",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-124",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective II",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-125",
+      "badgeNumber": "1543",
+      "name": "Jackson Smith",
+      "rank": "Detective I",
+      "timeInDept": "246 DAYS",
+      "timeInRank": "10 DAYS",
+      "discordId": "668245044213448724",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-126",
+      "badgeNumber": "2062",
+      "name": "Noah Jenkins",
+      "rank": "Detective I",
+      "timeInDept": "62 DAYS",
+      "timeInRank": "46 DAYS",
+      "discordId": "841550452272136222",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-127",
+      "badgeNumber": "1826",
+      "name": "Donald drippy",
+      "rank": "Detective I",
+      "timeInDept": "192 DAYS",
+      "timeInRank": "11 DAYS",
+      "discordId": "1395427049870463139",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-128",
+      "badgeNumber": "0529",
+      "name": "M. Reyes",
+      "rank": "Detective I",
+      "timeInDept": "19 DAYS",
+      "timeInRank": "10 DAYS",
+      "discordId": "349990552357306371",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-129",
+      "badgeNumber": "0515",
+      "name": "Jonathan Zeus",
+      "rank": "Detective I",
+      "timeInDept": "17 DAYS",
+      "timeInRank": "17 DAYS",
+      "discordId": "1205813751404560404",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-130",
+      "badgeNumber": "2224",
+      "name": "Cole Walker",
+      "rank": "Detective I",
+      "timeInDept": "18 DAYS",
+      "timeInRank": "4 DAYS",
+      "discordId": "1348063461145448562",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-131",
+      "badgeNumber": "1501",
+      "name": "Kaden Marquez",
+      "rank": "Detective I",
+      "timeInDept": "26 DAYS",
+      "timeInRank": "11 DAYS",
+      "discordId": "1170171397566369913",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-132",
+      "badgeNumber": "2533",
+      "name": "Reese Holloway",
+      "rank": "Detective I",
+      "timeInDept": "54 DAYS",
+      "timeInRank": "4 DAYS",
+      "discordId": "1387973419991171162",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-133",
+      "badgeNumber": "2695",
+      "name": "Shade Wood",
+      "rank": "Detective I",
+      "timeInDept": "9 DAYS",
+      "timeInRank": "9 DAYS",
+      "discordId": "1347702579651674183",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-134",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective I",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-135",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective I",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-136",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective I",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-137",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective I",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-138",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective I",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-139",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective I",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-140",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective I",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-141",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective I",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-142",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective I",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-143",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective I",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-144",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective I",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-145",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective I",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-146",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective I",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-147",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective I",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-148",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective I",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-149",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective I",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-150",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective I",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-151",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Detective I",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-200",
+      "badgeNumber": "2048",
+      "name": "Luis Martinez",
+      "rank": "Trainee Agent",
+      "timeInDept": "63 DAYS",
+      "timeInRank": "29 DAYS",
+      "discordId": "981311648566505524",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-201",
+      "badgeNumber": "2244",
+      "name": "Davon Smith",
+      "rank": "Trainee Agent",
+      "timeInDept": "137 DAYS",
+      "timeInRank": "10 DAYS",
+      "discordId": "834042010796687432",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-202",
+      "badgeNumber": "2467",
+      "name": "Frank Marsh",
+      "rank": "Trainee Agent",
+      "timeInDept": "83 DAYS",
+      "timeInRank": "74 DAYS",
+      "discordId": "544367969216757780",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-203",
+      "badgeNumber": "2364",
+      "name": "N. Saber",
+      "rank": "Trainee Agent",
+      "timeInDept": "147 DAYS",
+      "timeInRank": "67 DAYS",
+      "discordId": "1021292564575424602",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-204",
+      "badgeNumber": "2016",
+      "name": "Johny Cox",
+      "rank": "Trainee Agent",
+      "timeInDept": "68 DAYS",
+      "timeInRank": "68 DAYS",
+      "discordId": "1081307335785455737",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-205",
+      "badgeNumber": "2036",
+      "name": "Brody S.",
+      "rank": "Trainee Agent",
+      "timeInDept": "65 DAYS",
+      "timeInRank": "53 DAYS",
+      "discordId": "837129022487789588",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-206",
+      "badgeNumber": "2541",
+      "name": "Caleb Sanchez",
+      "rank": "Trainee Agent",
+      "timeInDept": "52 DAYS",
+      "timeInRank": "32 DAYS",
+      "discordId": "1061411577129091123",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-207",
+      "badgeNumber": "2033",
+      "name": "J. Nolan",
+      "rank": "Trainee Agent",
+      "timeInDept": "34 DAYS",
+      "timeInRank": "34 DAYS",
+      "discordId": "1321229809338023980",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-208",
+      "badgeNumber": "2104",
+      "name": "John Hayes",
+      "rank": "Trainee Agent",
+      "timeInDept": "16 DAYS",
+      "timeInRank": "16 DAYS",
+      "discordId": "1358121151867387934",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-209",
+      "badgeNumber": "2655",
+      "name": "Kevin Davis",
+      "rank": "Trainee Agent",
+      "timeInDept": "22 DAYS",
+      "timeInRank": "10 DAYS",
+      "discordId": "1018470623900614726",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-210",
+      "badgeNumber": "2694",
+      "name": "N. Price",
+      "rank": "Trainee Agent",
+      "timeInDept": "9 DAYS",
+      "timeInRank": "4 DAYS",
+      "discordId": "694939141686689842",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-211",
+      "badgeNumber": "2676",
+      "name": "D. Biggs",
+      "rank": "Trainee Agent",
+      "timeInDept": "15 DAYS",
+      "timeInRank": "4 DAYS",
+      "discordId": "1546570155100733560",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-212",
+      "badgeNumber": "2683",
+      "name": "Tim Bradford",
+      "rank": "Trainee Agent",
+      "timeInDept": "7 DAYS",
+      "timeInRank": "6 DAYS",
+      "discordId": "1165625286390452275",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-213",
+      "badgeNumber": "2733",
+      "name": "Ken Hondo",
+      "rank": "Trainee Agent",
+      "timeInDept": "1 DAYS",
+      "timeInRank": "1 DAYS",
+      "discordId": "1368074380529111101",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-214",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee Agent",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-215",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee Agent",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-216",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee Agent",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-217",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee Agent",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-218",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee Agent",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-219",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee Agent",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-220",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee Agent",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-221",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee Agent",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-222",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee Agent",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-223",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee Agent",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-224",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee Agent",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-225",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee Agent",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-226",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee Agent",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-227",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee Agent",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    },
+    {
+      "callsign": "MCD-228",
+      "badgeNumber": "",
+      "name": "",
+      "rank": "Trainee Agent",
+      "timeInDept": "",
+      "timeInRank": "",
+      "discordId": "",
+      "status": ""
+    }
+  ]
+}

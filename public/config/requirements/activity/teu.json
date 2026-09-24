@@ -1,0 +1,59 @@
+{
+  "department": "TEU",
+  "requirements": {
+    "officer-1": {
+      "hours": 5
+    },
+    "officer-2": {
+      "hours": 5
+    },
+    "officer-3": {
+      "hours": 5
+    },
+    "lance-corporal": {
+      "hours": 5
+    },
+    "corporal": {
+      "hours": 6
+    },
+    "sergeant": {
+      "hours": 6
+    },
+    "staff-sergeant": {
+      "hours": 6
+    },
+    "master-sergeant": {
+      "hours": 7
+    },
+    "second-lieutenant": {
+      "hours": 7
+    },
+    "first-lieutenant": {
+      "hours": 7
+    },
+    "captain": {
+      "hours": 8
+    },
+    "major": {
+      "hours": 8
+    },
+    "lieutenant-colonel": {
+      "hours": 8
+    },
+    "colonel": {
+      "hours": 8
+    },
+    "chief-of-staff": {
+      "hours": 8
+    },
+    "assistant-chief": {
+      "hours": 8
+    },
+    "deputy-chief": {
+      "hours": 8
+    },
+    "chief": {
+      "hours": 8
+    }
+  }
+}
